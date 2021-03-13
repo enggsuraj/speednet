@@ -1642,7 +1642,7 @@ section.plan .plans-list {
     flex-direction: column;
   }
   .plan-item {
-    margin: 30px;
+    margin: 20px;
   }
 }
 
